@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car-rest-api", "car-rest-api\car-rest-api.csproj", "{80F88BDB-1F2F-4AF4-AFCD-0948F67E8A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car-rest-apiTests", "car-rest-apiTests\car-rest-apiTests.csproj", "{B6F07658-CF12-48E3-8AFD-CA834629F9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F88BDB-1F2F-4AF4-AFCD-0948F67E8A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F88BDB-1F2F-4AF4-AFCD-0948F67E8A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F88BDB-1F2F-4AF4-AFCD-0948F67E8A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F88BDB-1F2F-4AF4-AFCD-0948F67E8A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F07658-CF12-48E3-8AFD-CA834629F9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F07658-CF12-48E3-8AFD-CA834629F9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F07658-CF12-48E3-8AFD-CA834629F9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F07658-CF12-48E3-8AFD-CA834629F9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C54ED69-46AA-433D-BC9D-3CC1B3A90008}
+	EndGlobalSection
+EndGlobal
